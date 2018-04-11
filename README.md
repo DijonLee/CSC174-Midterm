@@ -1,6 +1,6 @@
 # CSC174-Midterm
 
-Website Location:
+Website Location: http://urcsc174.org/midterm/jlee/index.php
 
 Github Location: https://github.com/DijonLee/CSC174-Midterm
 
