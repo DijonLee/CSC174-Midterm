@@ -16,9 +16,11 @@ Database Information:
          
 
 # Information Architect
+
 Topic: Sterling Cooper - An Advertisement Agency
+
 Goal: Present information about the topic and get users to sign-up for a newsletter
-Domain:
+
 
 ## Ontology
 **On the cover page** the most important part is to have a aestheically pleasing look and a short summary of what the website will be representing. To demonstrate this I ensured a minimalistic, modern and business-esque look for the website to capture the users attention and encourage him to scroll on. Use's are given three options 1. Login/Register, 2. View Portfolio, 3. Scroll on and view the website. By presenting the user with limited choices they are more inclined to pick one that I crafted for them. Furthermore any users already "convinced" by the website and are interested can directly view work by using the Our Work button which will direct them to the portfolio instantly with an added animation.
